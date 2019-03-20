@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1553111708 source:c:\users\adi\desktop\info\poo tema\main.cpp
+	<iostream>
+	<algorithm>
+	<fstream>
+
